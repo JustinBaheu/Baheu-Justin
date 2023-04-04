@@ -2,7 +2,7 @@
 
 ### Graduate engineer of ICAM (Institut Catholique des Arts et Métiers) of Lille, France . 
 
-- I'm a highly motivated, dynamic, and ambitious accredited Engineer witch I've made in apprentice ship at DEAI as a Business Manager CFO/CFA.
+- I'm a highly motivated, dynamic, and ambitious accredited Engineer witch I've made in apprenticeship at DEAI for 3 years as a Business Manager CFO/CFA.
 - I also made a 6 months internship at ARS Control, a robotic research laboratory of the UNIMORE University of Modena/Reggio-Emillia, Italia (see more about it in my Project N°1 : https://github.com/JustinBaheu/Mediapipe_ROS_Project)
 - I'm gonna participate in an intensive 11 weeks Bootcamp of Datascientest [https://datascientest.com/formation-data-scientist] 
     Witch is certifying by :  
