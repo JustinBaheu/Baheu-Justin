@@ -11,6 +11,7 @@
     * Microsoft AZ-900 certification / Microsoft Certified Azure Fundamentals.
     
 - My LinkedIn: [https://www.linkedin.com/in/justin-baheu-09220217b/][linkedin]
+- My LeetCode Profile : [https://leetcode.com/Baheu/][LeetCode]
 
 <br />
 
